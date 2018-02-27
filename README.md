@@ -7,3 +7,7 @@ This repository contains all the basic files required for arranging your dataset
 
 Rename all the files present in a given directory in such a way that all of them have a unique name between [0 -n]
 where n is the total number of files.
+
+
+## print-files.py
+Stores the name of all the files of a particular format to a given text file.
